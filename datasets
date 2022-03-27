@@ -1,0 +1,11 @@
+import pandas as pd
+import seaborn as sb
+import matplotlib.pyplot as plt # we only need pyplot
+sb.set() # set the default Seaborn style for graphics
+
+
+consumerPriceIndex = pd.read_csv('_____.csv')
+lifeExpectSex = pd.read_csv('_____.csv')
+lifeExpectHealth = pd.read_csv('_____.csv')
+taxRatesIncomeTax = pd.read_csv('_____.csv')
+
