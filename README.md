@@ -34,7 +34,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 - 
 - 
-- 
+- Learnt how to make your visualisation nicer 
 - API Usage
 - Other packages such as tqdm, json, requests , wordcloud
 - Collaborating using GitHub
