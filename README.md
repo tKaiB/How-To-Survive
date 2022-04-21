@@ -13,9 +13,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
   
 ## Contributors
 
-- @tKaiB -
-- @Arcyonix - 
-- @BinaryAnxiety - 
+- @tKaiB/TAN KAI BOON -
+- @Arcyonix/ TAN KOK ANN JEFF - 
+- @BinaryAnxiety/ LIM JIA EARN - 
 
 ## Problem Definition
 
