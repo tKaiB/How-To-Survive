@@ -18,6 +18,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Problem Definition
 Are we able to predict how long(number of days) youtube video is trending based on its attributes?
+
 Which model would be the best to predict it?
 
 
