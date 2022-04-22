@@ -1,7 +1,8 @@
 # Welcome to Youtube Trending Video repository
 
 ## About
-![Trending YOutube Video (1)](https://user-images.githubusercontent.com/77041483/164491992-76c30201-5fe7-4f48-a12a-bf80ad795851.png) 
+![Trending YOutube Video (2)](https://user-images.githubusercontent.com/77041483/164619750-0ecb49a7-7ba3-462f-a048-8660ecfca847.png)
+
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on youtube videos from [Kaggle](https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset). For detailed walkthrough, please view the source code in order from:
 
 1. [Data Extraction]
