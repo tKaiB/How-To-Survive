@@ -64,4 +64,5 @@ are not measured such as how many time a youtube video is shared or how it is re
 - <https://www.kaggle.com/code/songulerdem/car-sales-forecast-with-multi-layer-perceptron>
 - <https://www.codegrepper.com/code-examples/python/iterate+over+rows+dataframe>
 - <https://pandas.pydata.org/docs/reference/api/pandas.Series.groupby.html>
+- <https://towardsdatascience.com/multilayer-perceptron-explained-with-a-real-life-example-and-python-code-sentiment-analysis-cb408ee93141#:~:text=A%20Multilayer%20Perceptron%20has%20input,use%20any%20arbitrary%20activation%20function.>
 
