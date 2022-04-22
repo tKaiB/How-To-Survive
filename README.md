@@ -5,17 +5,16 @@
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on youtube videos from [Kaggle](https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset). For detailed walkthrough, please view the source code in order from:
 
-1. [Data Extraction]
+1. [Data Extraction & Cleaning]
 2. [Data Visualization]
-3. [Data Resampling and Splitting]
-4. [Multi-Layer perceptron]
-5. [Random Forest]
+3. [Multi-Layer perceptron]
+4. [Random Forest]
   
 ## Contributors
 
-- @tKaiB/TAN KAI BOON -
-- @Arcyonix/ TAN KOK ANN JEFF - 
-- @BinaryAnxiety/ LIM JIA EARN - 
+- @tKaiB/TAN KAI BOON - Data Extraction & Cleaning + Data Visualization
+- @Arcyonix/ TAN KOK ANN JEFF -  Random Forest + Data Visualization
+- @BinaryAnxiety/ LIM JIA EARN -  Multi-Layer perceptron + Data Visualization
 
 ## Problem Definition
 Are we able to predict how long(number of days) youtube video is trending based on its attributes?
@@ -34,8 +33,8 @@ Which model would be the best to predict it?
 
 ## What did we learn from this project?
 
-- 
-- 
+- Dealing with a large dataset and clean it to suit our problem
+- Random Forest , MultiLayer perceptron , visualising trees
 - Learnt how to make your visualisation nicer 
 - API Usage
 - Other packages such as tqdm, json, requests , wordcloud
@@ -52,4 +51,10 @@ Which model would be the best to predict it?
 - <https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop_duplicates.html>
 - <https://www.kdnuggets.com/2016/10/beginners-guide-neural-networks-python-scikit-learn.html/2>
 - <https://analyticsindiamag.com/a-beginners-guide-to-scikit-learns-mlpclassifier/>
+- <https://mljar.com/blog/visualize-decision-tree/>
+- <https://www.kdnuggets.com/2016/10/beginners-guide-neural-networks-python-scikit-learn.html/2>
+- <https://analyticsindiamag.com/a-beginners-guide-to-scikit-learns-mlpclassifier/>
+- <https://www.kaggle.com/code/songulerdem/car-sales-forecast-with-multi-layer-perceptron>
+- <https://www.codegrepper.com/code-examples/python/iterate+over+rows+dataframe>
+- <https://pandas.pydata.org/docs/reference/api/pandas.Series.groupby.html>
 
