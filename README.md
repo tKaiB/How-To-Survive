@@ -48,4 +48,7 @@ Which model would be the best to predict it?
 - <https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html>
 - <https://towardsdatascience.com/random-forest-classification-678e551462f5>
 - <https://amueller.github.io/word_cloud/>
+- <https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop_duplicates.html>
+- <https://www.kdnuggets.com/2016/10/beginners-guide-neural-networks-python-scikit-learn.html/2>
+- <https://analyticsindiamag.com/a-beginners-guide-to-scikit-learns-mlpclassifier/>
 
