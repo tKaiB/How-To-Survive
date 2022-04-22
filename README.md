@@ -1,4 +1,4 @@
-# Welcome to Youtube Trending Video repository
+# Welcome to Youtube Trending Video Repository
 
 ## About
 ![Trending YOutube Video (2)](https://user-images.githubusercontent.com/77041483/164619750-0ecb49a7-7ba3-462f-a048-8660ecfca847.png)
@@ -27,8 +27,15 @@ Which model would be the best to predict it?
 1. MultiLayer perceptron
 2. Random Forest
 
-## Conclusion
-
+## Overall Process
+1. During the process of cleaning the data we realised that the dataset contain duplicate which signifies how many days did a video trended. Thus, we cleaned the data to suit a problem of predicting how many days a video will trend.
+2. Afterwards, during the data exploratory we realised that numeric datas are easily to use to suit the two main machine learning program we are using.
+3. In both of the machine learning we realised that by restricting the dataframe even further with lower number of trending days to predict, it improves the overall accuracy of the predictions.
+4. This made us realised that with the dataset with have and the variables we use for the machine learnings , 
+we can predict with a highest accuracy of 61.6% for number of days a video trend at the maximum range of five.
+5. With this then we realised the flaw of the predicting the number of days a video trended with using only numeric datas.This is because there are other factors that 
+could potentially affect why a video is trending such as the thumbnail of the video which potentially results in clickbaits. Also, the fact that external factors that
+are not measured such as how many time a youtube video is shared or how it is related to the popular trend in the world currently.
 
 
 ## What did we learn from this project?
