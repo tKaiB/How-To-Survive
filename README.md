@@ -6,7 +6,7 @@
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on youtube videos from [Kaggle](https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset). For detailed walkthrough, please view the source code in order from:
 
 1. [Data Extraction & Cleaning](https://github.com/tKaiB/Youtube-Trending-Video-Analysis/blob/main/datacleaning.ipynb)
-2. [Data Visualization]
+2. [Data Visualization] (https://github.com/tKaiB/Youtube-Trending-Video-Analysis/blob/main/Data%20Visualization%20(%20Exploratory%20Data%20Analysis)%20(3).ipynb)
 3. [Multi-Layer perceptron](https://github.com/tKaiB/Youtube-Trending-Video-Analysis/blob/main/Final%20MLP.ipynb)
 4. [Random Forest]
   
