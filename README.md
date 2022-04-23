@@ -3,7 +3,10 @@
 ## About
 ![Trending YOutube Video (2)](https://user-images.githubusercontent.com/77041483/164619750-0ecb49a7-7ba3-462f-a048-8660ecfca847.png)
 
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on youtube videos from [Kaggle](https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset). For detailed walkthrough, please view the source code in order from:
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on youtube videos from [Kaggle](https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset). 
+For the dataset, the original file was too big, the following link will have the downloadable file. (https://1drv.ms/u/s!Am-p2hRHVLGejjfHbwgHWQU06c-l?e=wBHc4B)
+
+For detailed walkthrough, please view the source code in order from:
 
 1. [Data Extraction & Cleaning](https://github.com/tKaiB/Youtube-Trending-Video-Analysis/blob/main/datacleaning.ipynb)
 2. [Data Visualization](https://github.com/tKaiB/Youtube-Trending-Video-Analysis/blob/main/Data%20Visualization%20(%20Exploratory%20Data%20Analysis)%20(4).ipynb)
