@@ -39,8 +39,8 @@ Which model would be the best to predict it?
 4. This made us realised that with the dataset with have and the variables we use for the machine learnings , 
 we can predict with a highest accuracy of 63.1% for number of days a video trend at the maximum range of five.
 5. With this then we realised the flaw of the predicting the number of days a video trended with using only numeric datas.This is because there are other factors that 
-could potentially affect why a video is trending such as the thumbnail of the video which potentially results in clickbaits. Also, the fact that external factors that
-are not measured such as how many time a youtube video is shared or how it is related to the popular trend in the world currently.
+could potentially affect why a video is trending such as the thumbnail of the video which potentially results in clickbaits. 
+6. Also, the fact that external factors(thumbnails) that are not measured such as how many time a youtube video is shared or how it is related to the popular trend in the world currently.
 
 
 ## What did we learn from this project?
